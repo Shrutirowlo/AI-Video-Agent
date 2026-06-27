@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+vector_db/
+downloads/
+temp/
+*.wav
+*.mp3
+*.mp4
